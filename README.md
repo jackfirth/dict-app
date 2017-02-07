@@ -1,2 +1,2 @@
-# dict-app
+# indexable-app
 Under construction
